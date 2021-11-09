@@ -2,13 +2,13 @@ name: 'IMDb Export'
 description: 'A GitHub action that allows you to export your IMDb ratings and watchlist as csv to repository'
 inputs:
   imdb_email:
-    description: 'IMDb Email'
+    description: 'myokhant155@gmail.com'
     required: true
   imdb_password:
-    description: 'IMDb Password'
+    description: 'nnDA3vaAmiJv7i$'
     required: true
   GITHUB_TOKEN:
-    description: 'GitHub Token'
+    description: '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'
     required: true
   ratings_path:
     description: 'Ratings file path in repository'
